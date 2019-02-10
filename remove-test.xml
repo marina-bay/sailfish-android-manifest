@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- <remove-project name="platform/test/framework" /> -->
+  <!-- <remove-project name="platform/test/vts" /> -->
+  <!-- <remove-project name="platform/test/vts-testcase/fuzz" /> -->
+  <!-- <remove-project name="platform/test/vts-testcase/hal" /> -->
+  <!-- <remove-project name="platform/test/vts-testcase/hal-trace" /> -->
+  <!-- <remove-project name="platform/test/vts-testcase/kernel" /> -->
+  <!-- <remove-project name="platform/test/vts-testcase/performance" /> -->
+  <!-- <remove-project name="platform/test/vts-testcase/security" /> -->
+  <!-- <remove-project name="platform/test/vts-testcase/vndk" /> -->
+  <!-- <remove-project name="toolchain/binutils" /> -->
+  <!-- <remove-project name="platform/test/sts" /> -->
+
+</manifest>

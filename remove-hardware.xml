@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remove-project name="platform/hardware/akm" />
+  <!-- <remove-project name="platform/hardware/broadcom/libbt" /> -->
+  <!-- <remove-project name="platform/hardware/broadcom/wlan" /> -->
+  <!-- <remove-project name="platform/hardware/google/apf" /> -->
+  <remove-project name="platform/hardware/google/easel" />
+  <remove-project name="platform/hardware/intel/audio_media" />
+  <remove-project name="platform/hardware/intel/bootstub" />
+  <remove-project name="platform/hardware/intel/common/bd_prov" />
+  <remove-project name="platform/hardware/intel/common/libmix" />
+  <remove-project name="platform/hardware/intel/common/libstagefrighthw" />
+  <remove-project name="platform/hardware/intel/common/libva" />
+  <remove-project name="platform/hardware/intel/common/libwsbm" />
+  <remove-project name="platform/hardware/intel/common/omx-components" />
+  <remove-project name="platform/hardware/intel/common/utils" />
+  <remove-project name="platform/hardware/intel/common/wrs_omxil_core" />
+  <remove-project name="platform/hardware/intel/img/hwcomposer" />
+  <remove-project name="platform/hardware/intel/img/psb_headers" />
+  <remove-project name="platform/hardware/intel/img/psb_video" />
+  <remove-project name="platform/hardware/intel/sensors" />
+  <!-- <remove-project name="platform/hardware/interfaces" /> -->
+  <remove-project name="platform/hardware/invensense" />
+  <!-- <remove-project name="platform/hardware/libhardware" /> -->
+  <!-- <remove-project name="platform/hardware/libhardware_legacy" /> -->
+  <remove-project name="platform/hardware/marvell/bt" />
+  <!-- <remove-project name="platform/hardware/qcom/audio" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/bootctrl" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/bt" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/camera" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/display" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/gps" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/keymaster" /> -->
+  <!-- <remove-project name="platform/hardware/qcom/media" /> -->
+  <!-- Superfluous kernel headers -->
+  <remove-project name="platform/hardware/qcom/msm8960" />
+  <remove-project name="platform/hardware/qcom/msm8994" />
+  <remove-project name="platform/hardware/qcom/msm8996" />
+  <remove-project name="platform/hardware/qcom/msm8998" />
+  <remove-project name="platform/hardware/qcom/msm8x26" />
+  <remove-project name="platform/hardware/qcom/msm8x27" />
+  <remove-project name="platform/hardware/qcom/msm8x84" />
+  <remove-project name="platform/hardware/qcom/msm8x09" />
+  <!-- Replaced by board-specific power.$device -->
+  <remove-project name="platform/hardware/qcom/power" />
+  <!-- Tone uses broadcom wlan, but nile/tama might need qcom -->
+  <!-- <remove-project name="platform/hardware/qcom/wlan" /> -->
+  <!-- <remove-project name="platform/hardware/ril" /> -->
+
+</manifest>
+
