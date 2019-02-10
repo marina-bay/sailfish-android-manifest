@@ -620,4 +620,7 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
+   <!-- SailfishOS -->
+  <include name="sailfish-default.xml" />
+
 </manifest>
