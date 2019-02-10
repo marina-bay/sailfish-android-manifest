@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- FIRST: Remove unused AOSP Projects -->
+  <include name="remove-devices.xml" />
+  <include name="remove-external.xml" />
+  <include name="remove-framework.xml" />
+  <include name="remove-hardware.xml" />
+  <include name="remove-misc.xml" />
+  <include name="remove-packages.xml" />
+  <include name="remove-platform.xml" />
+  <include name="remove-prebuilts.xml" />
+  <include name="remove-system.xml" />
+  <include name="remove-test.xml" />
+  <include name="remove-tools.xml" />
+
+</manifest>
